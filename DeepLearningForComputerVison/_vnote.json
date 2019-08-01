@@ -1,18 +1,11 @@
 {
     "created_time": "2019-08-01T01:48:30Z",
     "files": [
-        {
-            "attachment_folder": "",
-            "attachments": [
-            ],
-            "created_time": "2019-08-01T01:48:48Z",
-            "modified_time": "2019-08-01T05:06:08Z",
-            "name": "1.引言.md",
-            "tags": [
-            ]
-        }
     ],
     "sub_directories": [
+        {
+            "name": "PractitionerBundle"
+        }
     ],
     "version": "1"
 }

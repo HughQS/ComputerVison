@@ -13,12 +13,7 @@ vnote_backup_file_826537664 E:/code/ComputerVison/DeepLearningForComputerVison/1
 ***
 # 参考书目
 ***
-[1] Diederik P. Kingma and Jimmy Ba. “Adam: A Method for Stochastic Optimization”. In:
-CoRR abs/1412.6980 (2014). URL: http://arxiv.org/abs/1412.6980 (cited on
-pages 11, 85, 86).<br/>
-[2] Geoffrey Hinton. Neural Networks for Machine Learning. http://www.cs.toronto.edu/
-~tijmen/csc321/slides/lecture_slides_lec6.pdf (cited on pages 11, 85).<br/>
-[3] Kaggle Team. Kaggle: Dogs vs. Cats. https://www.kaggle.com/c/dogs-vs-cats
-(cited on pages 12, 95).<br/>
-[4] Andrej Karpathy. Tiny ImageNet Challenge. http://cs231n.stanford.edu/project.
-html (cited on pages 12, 131, 168)<br/>
+[1] Diederik P. Kingma and Jimmy Ba. “Adam: A Method for Stochastic Optimization”. In: CoRR abs/1412.6980 (2014). URL: http://arxiv.org/abs/1412.6980 (cited on pages 11, 85, 86).<br/>
+[2] Geoffrey Hinton. Neural Networks for Machine Learning. http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf (cited on pages 11, 85).<br/>
+[3] Kaggle Team. Kaggle: Dogs vs. Cats. https://www.kaggle.com/c/dogs-vs-cats (cited on pages 12, 95).<br/>
+[4] Andrej Karpathy. Tiny ImageNet Challenge. http://cs231n.stanford.edu/project.html (cited on pages 12, 131, 168)<br/>
