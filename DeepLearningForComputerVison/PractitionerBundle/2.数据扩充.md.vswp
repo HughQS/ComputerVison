@@ -1,3 +1,4 @@
+vnote_backup_file_826537664 E:/code/ComputerVison/DeepLearningForComputerVison/PractitionerBundle/2.数据扩充.md
 # 2.数据扩充
 &emsp;&emsp;根据Goodfellow等人的观点，正则化是“我们对一个学习算法做的任何修改，目的是去减少它的泛化误差而不是它的训练误差”<sup>[5]</sup>。简言之，正则化是减少我们的测试误差，可能会以增加少量的训练误差为代价。<br/>
 &emsp;&emsp;我们已经在《入门卷》的第9章讨论了正则化的不同形式；然而，这些都是正则化的参数化形式，需要我们去更新我们的损失或更新函数。实际上，这儿还有正则化的其它形式：<br/>
